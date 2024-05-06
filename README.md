@@ -1,2 +1,2 @@
 # Learning-Git
-Just learning git basis 
+Just learning git basics 
